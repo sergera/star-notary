@@ -4,3 +4,6 @@
 [submodule "star-notary-api"]
 	path = star-notary-api
 	url = git@github.com:sergera/star-notary-api.git
+[submodule "star-notary-listener"]
+	path = star-notary-listener
+	url = git@github.com:sergera/star-notary-listener.git
