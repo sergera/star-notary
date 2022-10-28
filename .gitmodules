@@ -1,0 +1,3 @@
+[submodule "star-notary-truffle"]
+	path = star-notary-truffle
+	url = git@github.com:sergera/star-notary-truffle.git
