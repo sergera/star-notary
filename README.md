@@ -4,6 +4,10 @@
 An NFT Marketplace for registering, naming, and trading Stars!
 </p>
 
+## Showcase:
+
+[![Star Notary Showcase](https://img.youtube.com/vi/ZsvL5tF50P4/0.jpg)](https://www.youtube.com/watch?v=ZsvL5tF50P4)
+
 ## Architecture:
 
 <img src="public/architecture.png" alt="architecture">
